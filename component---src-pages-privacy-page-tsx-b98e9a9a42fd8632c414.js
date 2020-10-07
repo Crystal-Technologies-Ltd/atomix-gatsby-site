@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{hXcG:function(e,t,a){"use strict";a.r(t);var c=a("q1tI"),i=a.n(c),n=a("Ac47"),r=a("rvLW"),s=a("Xtjs");t.default=function(){return i.a.createElement(n.a,{title:"Privacy policy & Terms"},i.a.createElement(s.a,{isFormStepVisible:!1,data:r.privacyPage}))}}}]);
+//# sourceMappingURL=component---src-pages-privacy-page-tsx-b98e9a9a42fd8632c414.js.map
