@@ -6,3 +6,7 @@
     font-family: "Museo Sans";
     src: url("MuseoSans.otf");
 }
+@font-face {
+    font-family: "MrsSaintDelafield";
+    src: url("MrsSaintDelafield.ttf");
+}
