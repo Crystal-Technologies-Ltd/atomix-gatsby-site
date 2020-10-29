@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{P69A:function(t,e,n){"use strict";n.r(e);var a=n("q1tI"),c=n.n(a),i=n("Xtjs"),o=n("Ac47");e.default=function(){return c.a.createElement(o.a,{title:"Join the SDA",titleSpan:"today"},c.a.createElement(i.b,null))}}}]);
+//# sourceMappingURL=component---src-pages-join-success-tsx-76b7a7f8448ed5ed5eda.js.map

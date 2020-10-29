@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{fYrl:function(e,t,a){"use strict";a.r(t);var i=a("q1tI"),n=a.n(i),r=a("Ac47"),c=a("rzzf"),s=a("Xtjs");t.default=function(){return n.a.createElement(r.a,{title:"Disclaimer"},n.a.createElement(s.a,{isFormStepVisible:!1,data:c.disclaimerData}))}}}]);
+//# sourceMappingURL=component---src-pages-disclaimer-page-tsx-bd03a4fdb1276c1ddacb.js.map
