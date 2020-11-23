@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{lb0E:function(e,n,w){"use strict";w.r(n);var a=w("QeBL");n.default=a.default}}]);
+//# sourceMappingURL=component---src-pages-your-work-tsx-091d957d393c17086c24.js.map

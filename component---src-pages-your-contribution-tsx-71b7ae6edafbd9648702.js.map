@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/your-contribution.tsx"],"names":["indexPage"],"mappings":"8FAAA,uBAEeA,YAAf","file":"component---src-pages-your-contribution-tsx-71b7ae6edafbd9648702.js","sourcesContent":["import indexPage from './index'\n\nexport default indexPage"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/your-work.tsx"],"names":["indexPage"],"mappings":"4FAAA,uBAEeA,YAAf","file":"component---src-pages-your-work-tsx-091d957d393c17086c24.js","sourcesContent":["import indexPage from './index'\n\nexport default indexPage"],"sourceRoot":""}
